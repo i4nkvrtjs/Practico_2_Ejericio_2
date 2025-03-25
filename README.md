@@ -1,1 +1,1 @@
-# Practico_2_Ejericio_2
+# Programación 1 Práctico 2 Ejercicio 2
